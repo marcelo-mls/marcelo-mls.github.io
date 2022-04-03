@@ -1,15 +1,32 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&family=Permanent+Marker&family=Roboto:wght@300&display=swap');
 
 
 body {
     font-size: 100%;
-    background: linear-gradient( 65deg, #1F1F26, 16.62%, #14141C 85.61%);
+    background: linear-gradient( 65deg, #14141C, 16.62%, #2b2b33 85.61%);
     font-family: 'Roboto', sans-serif;
     color: white;
-    
 }
 
 h1, h3, h4 {
     font-family: 'Inter', sans-serif;
     color: #F59B37 
+}
+
+a { 
+    text-decoration: none;
+    color: #1F26A6;
+}
+
+a:hover {
+    font-family: 'Inter', sans-serif;
+    color: white;
+}
+
+li:hover {
+    color: #D92546;
+}
+
+#foto-marcelo {
+    border-radius: 100%;
 }
