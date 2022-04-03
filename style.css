@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&family=Roboto:wght@300&display=swap');
+
+
+body {
+    font-size: 100%;
+    background: linear-gradient( 65deg, #1F1F26, 16.62%, #14141C 85.61%);
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    
+}
+
+h1, h3, h4 {
+    font-family: 'Inter', sans-serif;
+    color: #F59B37 
+}
